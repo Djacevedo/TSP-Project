@@ -10,8 +10,10 @@ call tsp_backtrack with name.txt and distance.txt as parameters
 
     call parse txt helper
 
+    
     for city in list of cities
-        append.
+        add
+
 
     i
 ```
